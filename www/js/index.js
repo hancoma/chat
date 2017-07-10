@@ -56,7 +56,7 @@ var app = {
          var reg_id=device.uuid;
        // 기기 번호 검출 
           console.log('Received Event: ' + reg_id);
-
+ startapp();
           push = PushNotification.init({
     android: {
         senderID: "870999976688"
@@ -82,7 +82,7 @@ push.on('registration', function(data) {
     console.log(data.registrationId);
     json_call(data.registrationId);
      setTimeout(function() {
-      startapp();
+     // startapp();
       }, 1000);
 });
 
