@@ -1,0 +1,86 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "85075801930",
+            "PACKAGE_NAME": "com.ku4h.hancoma"
+        },
+        "cordova-plugin-sim": {
+            "PACKAGE_NAME": "com.ku4h.atopynews"
+        },
+        "cordova-plugin-inapppurchase": {
+            "PACKAGE_NAME": "com.ku4h.atopynews"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.mgallerybear.anyphoto"
+        }
+    }
+}
