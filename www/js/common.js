@@ -69,6 +69,10 @@ function main_show() {
             }
         })
 }
+function add_bang() {
+  menu="add_bang";
+  $("#bang_add_modal").addClass('active');
+}
 function chat_show() {
   menu="chat";
   console.log("대화방");
